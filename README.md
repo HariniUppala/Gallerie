@@ -13,3 +13,6 @@
 
 ## Font
 -https://fonts.google.com/specimen/Press+Start+2P?preview.size=47&query=press&sort=popularity
+
+## Hosted URL
+-https://harini-gallerie.netlify.app/
